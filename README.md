@@ -1,0 +1,1 @@
+# parcing_img_lenta
